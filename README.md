@@ -1,6 +1,7 @@
 # multiArmedHobbit
 ----
 Deep Learning for contextual banditing.
+
 ** info **  
 
     Dasha Zmachynskaya    : dasharya@gmail.com
